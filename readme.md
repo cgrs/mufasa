@@ -1,4 +1,8 @@
 # 🦁 mufasa
+
+## Deprecation notice
+Since this tool is still in development and there are better options out there, I've decided to archive this repo and stop further development on this project. If you want to manage your AWS (and Azure) sessions with ease, you can use [Leapp](https://www.leapp.cloud/).
+
 <img src="docs/icon.png" height=100 />
 
 AWS CLI MFA-enabled credentials bootstrapper.
